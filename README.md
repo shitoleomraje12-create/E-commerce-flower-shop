@@ -31,9 +31,9 @@ It is designed for learning and practicing HTML and CSS concepts.
 ## 📂 Project Structure
 
 📁 Flower-Shop
-├── index.html
-├── style.css
-└── README.md
+index.html
+style.css
+README.md
 
 
 ## ▶️ How to Run the Project
@@ -42,11 +42,6 @@ It is designed for learning and practicing HTML and CSS concepts.
 2. Open the project folder
 3. Double-click `index.html`
 4. View the website in your browser
-
-## 📸 Screenshots
-
-
-
 
 ## 👤 Author
 
@@ -58,3 +53,4 @@ Frontend Developer
 ## 📄 License
 
 This project is created for learning and practice purposes.
+
