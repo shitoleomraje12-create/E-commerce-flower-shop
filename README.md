@@ -31,9 +31,9 @@ It is designed for learning and practicing HTML and CSS concepts.
 ## 📂 Project Structure
 
 📁 Flower-Shop
-index.html
-style.css
-README.md
+-index.html
+-style.css
+-README.md
 
 
 ## ▶️ How to Run the Project
@@ -53,4 +53,5 @@ Frontend Developer
 ## 📄 License
 
 This project is created for learning and practice purposes.
+
 
